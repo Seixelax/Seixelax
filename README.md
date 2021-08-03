@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alexies Hyro</h1>
-<h3 align="center">A Senior High school Student from Philippines🇵🇭 • Aspiring fullstack web developer and i would like to enter Cybersecurity and Game Development field</h3>
+<h3 align="center">A Senior High school Student from Philippines • Aspiring fullstack web developer and i would like to enter Cybersecurity and Game Development field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexieshyro&label=Profile%20views&color=0e75b6&style=flat" alt="alexieshyro" /> </p>
 
