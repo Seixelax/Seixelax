@@ -1308,7 +1308,7 @@
                                         <span>starred Jul 22 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Short JavaScript code snippets for all your development needs</div>
+                                <div class="field description">Short code snippets for all your development needs</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1889,7 +1889,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2023, 02:14:44 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 May 2023, 03:10:24 (timezone Asia/Singapore) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
