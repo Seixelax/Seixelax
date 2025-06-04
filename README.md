@@ -5,7 +5,7 @@ Hey there 👋
 * 🎮 For fun, I enjoy applying my coding skills to my passion for gaming (like creating Minecraft plugins!).
 * 🤝 Always open to collaborating on innovative and impactful projects.
 
-# ![](https://komarev.com/ghpvc/?username=Seixelax&abbreviated=true)
+# ![](https://komarev.com/ghpvc/?username=Seixelax)
 ## [![An image of @seixela's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/seixela)](https://holopin.io/@seixela)
 
 
