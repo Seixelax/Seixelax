@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/pytorch</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tensors and Dynamic neural networks in Python with strong GPU acceleration</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tensorflow/tensorflow</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Source Machine Learning Framework for Everyone</div>
@@ -1515,7 +1515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TheAlgorithms/Python</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All Algorithms implemented in Python</div>
@@ -1629,7 +1629,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2026, 00:18:05 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2026, 02:55:56 (timezone Asia/Singapore) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
